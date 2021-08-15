@@ -1,2 +1,4 @@
 first file text - master
 first file text - newBranch
+first file text - newBranch1
+first file text - newBranch2
